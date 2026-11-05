@@ -1,0 +1,1 @@
+var e=document.querySelector(`.hero__track`);e!==null&&new ResizeObserver(()=>{for(let t of e.getAnimations())t.updatePlaybackRate(t.playbackRate)}).observe(e);var t=document.querySelector(`.hero`);t!==null&&new IntersectionObserver(e=>{for(let t of e)document.documentElement.classList.toggle(`page--past-hero`,!t.isIntersecting)}).observe(t);
