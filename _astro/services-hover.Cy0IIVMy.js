@@ -1,0 +1,1 @@
+var e=`toc__row--on`,t=matchMedia(`(hover: none), (pointer: coarse)`),n=[...document.querySelectorAll(`.toc__row`)],r=new IntersectionObserver(t=>{for(let n of t)n.target.classList.toggle(e,n.isIntersecting)},{rootMargin:`-49.8% 0px`});function i(){r.disconnect();for(let t of n)t.classList.remove(e);if(t.matches)for(let e of n)r.observe(e)}i(),t.addEventListener(`change`,i);

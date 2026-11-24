@@ -1,0 +1,1 @@
+function e(e,t,...n){let r=[...e];for(let e of r)e.classList.remove(t,...n);document.body.offsetWidth;for(let e of r)e.classList.add(t)}export{e as t};

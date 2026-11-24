@@ -3,7 +3,7 @@ The built pages carry this file.
 
 ---
 
-Playfair Display, Version 1.203, regular and italic, Cyrillic and Latin subsets:
+Playfair Display, Version 1.203, regular, italic and semibold, Cyrillic and Latin subsets:
 
 Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name "Playfair Display".
 
@@ -111,7 +111,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 Icons on the Contacts links:
 
-Simple Icons 16.36.0 (https://simpleicons.org): the WhatsApp, Instagram and Mail.Ru marks.
+Simple Icons 16.36.0 (https://simpleicons.org): the WhatsApp and Mail.Ru marks.
 CC0 1.0 Universal, dedicated to the public domain. The marks remain trademarks of their owners.
 
 Phosphor Icons core 2.1.1 (https://phosphoricons.com), bold weight: the telegram-logo plane.
